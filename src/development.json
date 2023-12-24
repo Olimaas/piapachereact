@@ -3,8 +3,8 @@
     "append": true,
     "watch": true,
     "script": "index.js",
-    "sourceDir": "/website/piapachereact/src",
-    "logFile": "/website/piapachereact/logs/forever.log",
-    "outFile": "/website/piapachereact/logs/out.log",
-    "errFile": "/website/piapachereact/logs/error.log"
+    "sourceDir": "website/piapachereact/src",
+    "logFile": "website/piapachereact/logs/forever.log",
+    "outFile": "website/piapachereact/logs/out.log",
+    "errFile": "website/piapachereact/logs/error.log"
 }
